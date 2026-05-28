@@ -4,6 +4,8 @@
 
 22 unified layouts | 4 brand palettes | WCAG-AA color safety | Native CJK font support
 
+> **This is the engine.** See [agent-harness-blueprint](https://github.com/spencernero2021-hash/agent-harness-blueprint) for the full multi-agent orchestration system that drives it — cross-model quality validation, constraint memory, and 7-skill routing.
+
 ---
 
 ## Why This Exists
@@ -116,6 +118,8 @@ MIT
 **面向 AI Agent 的原生 PPTX 工程库** — 为 Agent 流水线设计，而非模板填充。
 
 22 种统一版式 | 4 套品牌调色板 | WCAG-AA 颜色安全 | 原生中文字体支持
+
+> **这是引擎层。** 驱动它的完整多智能体编排系统见 [agent-harness-blueprint](https://github.com/spencernero2021-hash/agent-harness-blueprint) — 异质模型交叉验证、硬约束记忆、7 技能路由。
 
 ## 为什么需要这个库
 
