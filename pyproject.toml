@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pptx-agent-toolkit"
+version = "0.1.0"
+description = "Agent-native PPTX engineering library — 22 layouts, WCAG-AA color safety, Chinese font support"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = [
+    "python-pptx>=0.6.21",
+    "Pillow>=9.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
