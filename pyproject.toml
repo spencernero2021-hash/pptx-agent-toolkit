@@ -5,10 +5,13 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pptx-agent-toolkit"
 version = "0.1.0"
-description = "Agent-native PPTX engineering library — 22 layouts, WCAG-AA color safety, Chinese font support"
+description = "Agent-native PPTX engineering library — 22 layouts, WCAG-AA color safety, Chinese font support. Built with Claude Code (harness) + DeepSeek V4 Pro (reasoning)."
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.10"
+authors = [
+    {name = "spencernero", email = "spencernero2021@gmail.com"},
+]
 dependencies = [
     "python-pptx>=0.6.21",
     "Pillow>=9.0",

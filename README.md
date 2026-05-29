@@ -4,6 +4,8 @@
 
 22 unified layouts | 4 brand palettes | WCAG-AA color safety | Native CJK font support
 
+> **Built with:** [Claude Code](https://claude.ai/code) (agent harness) + [DeepSeek V4 Pro](https://deepseek.com) (reasoning model). Harness writes the code; the model drives the design decisions.
+
 > **This is the engine.** See [agent-harness-blueprint](https://github.com/spencernero2021-hash/agent-harness-blueprint) for the full multi-agent orchestration system that drives it — cross-model quality validation, constraint memory, and 7-skill routing.
 
 ---
@@ -118,6 +120,8 @@ MIT
 **面向 AI Agent 的原生 PPTX 工程库** — 为 Agent 流水线设计，而非模板填充。
 
 22 种统一版式 | 4 套品牌调色板 | WCAG-AA 颜色安全 | 原生中文字体支持
+
+> **构建于：** [Claude Code](https://claude.ai/code)（agent harness）+ [DeepSeek V4 Pro](https://deepseek.com)（推理模型）。Harness 写代码；模型驱动设计决策。
 
 > **这是引擎层。** 驱动它的完整多智能体编排系统见 [agent-harness-blueprint](https://github.com/spencernero2021-hash/agent-harness-blueprint) — 异质模型交叉验证、硬约束记忆、7 技能路由。
 
